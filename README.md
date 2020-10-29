@@ -1,3 +1,12 @@
+** REPO OWNER NOTE **
+This project is a recreation of a tutorial by Frank Zwickert found at https://medium.com/better-programming/how-to-create-a-react-app-with-email-authentication-372a67a6d27b.
+
+I'll diverge in places (for instance, on the front end separation of components & no TSX) but the general idea is similar.
+
+Thanks to Frank for putting this out there!
+
+** END NOTE **
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
