@@ -8,8 +8,10 @@ const Landing = (props) => {
   return (
     <div>
       <h1>Welcome!</h1>
-      <h3>Click below to login</h3>
+      <h3>Make your selection below</h3>
       <button onClick={() => history.push("./login")}>Click to Login</button>
+      OR
+      <button onClick={() => history.push("./register")}>Register Here!</button>
     </div>
   );
 };
