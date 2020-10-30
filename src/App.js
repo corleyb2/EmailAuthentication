@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
 import { Switch, Route } from "react-router-dom";
-import Landing from "./components/Landing";
-import Login from "./components/Login";
-import Secret from "./components/Secret";
+import Landing from "./pages/Landing";
+import Login from "./pages/Login";
+import Secret from "./pages/Secret";
 
 //PrivateRoute for secret page?
 
